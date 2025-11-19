@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Aficionado a la Ciberseguridad**<br>💻 **Programador**<br>🐉 **Amante de Kali Linux**<br><br>  * 🌱 **Aprendiendo:** Pentesting avanzado & Análisis de Malware<br>  * 👯 **Busco colaborar en:** Proyectos de Hacking Ético y CTFs<br>  * 💬 **Pregúntame sobre:** Vulnerabilidades, Redes y Scripting<br>  * ⚡ **Fact** Tu firewall es un reto, no un obstáculo..<br><br>> **"Entro hasta la cocina sin hacer ruido, solo para mostrarte dónde dejaste la puerta abierta."**<br>
+🔭 **Aficionado a la Ciberseguridad**<br>💻 **Programador**<br>🐉 **Amante de Kali Linux**<br><br>  * 🌱 **Aprendiendo:** Pentesting avanzado & Análisis de Malware<br>  * 👯 **Busco colaborar en:** Proyectos de Hacking Ético y CTFs<br>  * 💬 **Pregúntame sobre:** Vulnerabilidades, Redes y Scripting<br>  * ⚡ **Fact:** Tu firewall es un reto, no un obstáculo..<br><br>> **"Entro hasta la cocina sin hacer ruido, solo para mostrarte dónde dejaste la puerta abierta."**<br>
 
 
 # 💻 Tech Stack:
